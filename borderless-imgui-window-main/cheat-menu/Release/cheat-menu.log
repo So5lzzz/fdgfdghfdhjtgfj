@@ -1,0 +1,351 @@
+﻿  gui.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(17,14): error C2598: linkage specification must be at global scope
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(25,11): error C2870: 'std': a namespace definition must appear either at file scope or immediately within another namespace definition
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(48,17): error C2323: 'gui::operator new': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(55,12): error C2039: 'nothrow_t': is not a member of 'std'
+  (compiling source file 'cheat/gui.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h(23,15):
+  see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(55,12): error C2061: syntax error: identifier 'nothrow_t'
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(56,15): warning C5043: 'gui::operator new': exception specification does not match previous declaration
+  (compiling source file 'cheat/gui.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(48,17):
+  see declaration of 'gui::operator new'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(53,17): error C2323: 'gui::operator new': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(59,17): error C2323: 'gui::operator new[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(66,12): error C2039: 'nothrow_t': is not a member of 'std'
+  (compiling source file 'cheat/gui.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h(23,15):
+  see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(66,12): error C2061: syntax error: identifier 'nothrow_t'
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(67,15): warning C5043: 'gui::operator new[]': exception specification does not match previous declaration
+  (compiling source file 'cheat/gui.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(59,17):
+  see declaration of 'gui::operator new[]'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(64,17): error C2323: 'gui::operator new[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(69,16): error C2323: 'gui::operator delete': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(75,12): error C2039: 'nothrow_t': is not a member of 'std'
+  (compiling source file 'cheat/gui.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h(23,15):
+  see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(75,12): error C2061: syntax error: identifier 'nothrow_t'
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(73,16): error C2323: 'gui::operator delete': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(78,16): error C2323: 'gui::operator delete[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(84,12): error C2039: 'nothrow_t': is not a member of 'std'
+  (compiling source file 'cheat/gui.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h(23,15):
+  see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(84,12): error C2061: syntax error: identifier 'nothrow_t'
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(82,16): error C2323: 'gui::operator delete[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(87,16): error C2323: 'gui::operator delete': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(92,16): error C2323: 'gui::operator delete[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(99,17): error C2323: 'gui::operator new': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(108,12): error C2039: 'nothrow_t': is not a member of 'std'
+  (compiling source file 'cheat/gui.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h(23,15):
+  see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(108,12): error C2061: syntax error: identifier 'nothrow_t'
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(109,15): warning C5043: 'gui::operator new': exception specification does not match previous declaration
+  (compiling source file 'cheat/gui.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(99,17):
+  see declaration of 'gui::operator new'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(105,17): error C2323: 'gui::operator new': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(113,17): error C2323: 'gui::operator new[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(122,12): error C2039: 'nothrow_t': is not a member of 'std'
+  (compiling source file 'cheat/gui.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h(23,15):
+  see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(122,12): error C2061: syntax error: identifier 'nothrow_t'
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(123,15): warning C5043: 'gui::operator new[]': exception specification does not match previous declaration
+  (compiling source file 'cheat/gui.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(113,17):
+  see declaration of 'gui::operator new[]'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(119,17): error C2323: 'gui::operator new[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(125,16): error C2323: 'gui::operator delete': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(133,12): error C2039: 'nothrow_t': is not a member of 'std'
+  (compiling source file 'cheat/gui.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h(23,15):
+  see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(133,12): error C2061: syntax error: identifier 'nothrow_t'
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(130,16): error C2323: 'gui::operator delete': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(136,16): error C2323: 'gui::operator delete[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(144,12): error C2039: 'nothrow_t': is not a member of 'std'
+  (compiling source file 'cheat/gui.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h(23,15):
+  see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(144,12): error C2061: syntax error: identifier 'nothrow_t'
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(141,16): error C2323: 'gui::operator delete[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(147,16): error C2323: 'gui::operator delete': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(153,16): error C2323: 'gui::operator delete[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(166,28): error C2323: 'gui::operator new': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(173,27): error C2323: 'gui::operator delete': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(182,28): error C2323: 'gui::operator new[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h(189,27): error C2323: 'gui::operator delete[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new_debug.h(26,37): error C2323: 'gui::operator new': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new_debug.h(34,37): error C2323: 'gui::operator new[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new_debug.h(41,20): error C2323: 'gui::operator delete': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_new_debug.h(48,20): error C2323: 'gui::operator delete[]': non-member operator new or delete functions may not be declared static or in a namespace other than the global namespace
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdlib(23,18): error C2039: 'fabs': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdlib(27,18): error C2039: 'fabsf': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdlib(31,18): error C2039: 'fabsl': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstddef(101,12): error C2039: 'max_align_t': is not a member of 'std'
+  (compiling source file 'cheat/gui.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h(23,15):
+  see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstddef(101,1): error C2873: 'max_align_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(21,25): error C2039: 'int8_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(21,13): error C2873: 'int8_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(22,25): error C2039: 'int16_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(22,13): error C2873: 'int16_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(23,25): error C2039: 'int32_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(23,13): error C2873: 'int32_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(24,25): error C2039: 'int64_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(24,13): error C2873: 'int64_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(25,25): error C2039: 'uint8_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(25,13): error C2873: 'uint8_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(26,25): error C2039: 'uint16_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(26,13): error C2873: 'uint16_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(27,25): error C2039: 'uint32_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(27,13): error C2873: 'uint32_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(28,25): error C2039: 'uint64_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(28,13): error C2873: 'uint64_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(30,25): error C2039: 'int_least8_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(30,13): error C2873: 'int_least8_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(31,25): error C2039: 'int_least16_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(31,13): error C2873: 'int_least16_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(32,25): error C2039: 'int_least32_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(32,13): error C2873: 'int_least32_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(33,25): error C2039: 'int_least64_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(33,13): error C2873: 'int_least64_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(34,25): error C2039: 'uint_least8_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(34,13): error C2873: 'uint_least8_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(35,25): error C2039: 'uint_least16_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(35,13): error C2873: 'uint_least16_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(36,25): error C2039: 'uint_least32_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(36,13): error C2873: 'uint_least32_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(37,25): error C2039: 'uint_least64_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(37,13): error C2873: 'uint_least64_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(39,25): error C2039: 'int_fast8_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(39,13): error C2873: 'int_fast8_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(40,25): error C2039: 'int_fast16_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(40,13): error C2873: 'int_fast16_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(41,25): error C2039: 'int_fast32_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(41,13): error C2873: 'int_fast32_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(42,25): error C2039: 'int_fast64_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(42,13): error C2873: 'int_fast64_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(43,25): error C2039: 'uint_fast8_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(43,13): error C2873: 'uint_fast8_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(44,25): error C2039: 'uint_fast16_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(44,13): error C2873: 'uint_fast16_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(45,25): error C2039: 'uint_fast32_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(45,13): error C2873: 'uint_fast32_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(46,25): error C2039: 'uint_fast64_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(46,13): error C2873: 'uint_fast64_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(48,25): error C2039: 'intmax_t': is not a member of '`global namespace''
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(48,13): error C2873: 'intmax_t': symbol cannot be used in a using-declaration
+  (compiling source file 'cheat/gui.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstdint(48,13): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'cheat/gui.cpp')
+  
+  main.cpp
+C:\Users\PC\Downloads\borderless-imgui-window-main\borderless-imgui-window-main\cheat\main.cpp(16,7): error C2039: 'CreateImGuiTextLabel': is not a member of 'gui'
+  C:\Users\PC\Downloads\borderless-imgui-window-main\borderless-imgui-window-main\cheat\gui.h(4,11):
+  see declaration of 'gui'
+  
+C:\Users\PC\Downloads\borderless-imgui-window-main\borderless-imgui-window-main\cheat\main.cpp(16,7): error C3861: 'CreateImGuiTextLabel': identifier not found
